@@ -25,6 +25,8 @@ yarn-error.log*
 .project
 tmp/
 typings/
+.editorconfig
+.vscode/
 
 # Visual Studio Code
 .vscode/*
