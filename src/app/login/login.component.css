@@ -14,7 +14,7 @@ StackLayout{
 
 Image{
   margin-bottom: 20;
-  height: 20;
+  height: 100;
 }
 
 Button, TextField{
